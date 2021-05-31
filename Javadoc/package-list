@@ -1,0 +1,7 @@
+com.arifdogru.imdb
+com.arifdogru.imdb.controller
+com.arifdogru.imdb.entity
+com.arifdogru.imdb.exception
+com.arifdogru.imdb.pojo
+com.arifdogru.imdb.repository
+com.arifdogru.imdb.swagger2
